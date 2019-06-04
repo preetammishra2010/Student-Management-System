@@ -43,7 +43,7 @@ Course details can be added,updated deleted or retrieved to or from the database
 
 Add Scores:
 
-Scores can be added,updated,deleted or retrieved to ro from the database.
+Scores can be added,updated,deleted or retrieved to or from the database.
 
 <img src="Project Images/Manage Scores.png">
 
