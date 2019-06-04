@@ -10,7 +10,7 @@ After logged in successfully user will be landed on the main page.
 
 <img src="Project Images/Main Form.png">
 
-Following Menu bar has been on the main page:
+Following Menu bar has been added on the main page:
 
 
 Manage Students Database: 
