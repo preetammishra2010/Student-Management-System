@@ -34,8 +34,12 @@ After logging in succesfully,user can add,edit or deleted student details,java G
 
 Add Courses:
 
-Course details can be added,updated deleted or retreived to or from the database.
+Course details can be added,updated deleted or retrieved to or from the database.
 
 <img src="Project Images/Manage Courses.png">
 
+Add Scores:
 
+Scores can be added,updated,deleted or retrieved to ro from the database.
+
+<img src="Project Images/Manage Scores.png">
