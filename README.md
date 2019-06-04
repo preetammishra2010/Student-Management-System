@@ -60,3 +60,8 @@ Scores < = 70 && > 50 in yellow.
 Scores < 50 in red.
 
 <img src="Project Images/Show Scores 2.png">
+
+
+Tables in the database have been update with the Referential Integrity.
+If the course is deleted from the database,the score for that particular course will also be deleted.
+If the student is deleted from the database,the score of that particular student will also be deleted.
