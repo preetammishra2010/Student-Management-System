@@ -26,9 +26,16 @@ Manage Students scores Database:
 
 
 Add Students:
+
 After logging in succesfully,user can add,edit or deleted student details,java GUI have been implemented for user end interaction.
 
 <img src="Project Images/Add Student.png">
 
+
 Add Courses:
+
+Course details can be added,updated deleted or retreived to or from the database.
+
+<img src="Project Images/Manage Courses.png">
+
 
