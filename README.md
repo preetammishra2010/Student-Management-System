@@ -46,3 +46,17 @@ Add Scores:
 Scores can be added,updated,deleted or retrieved to ro from the database.
 
 <img src="Project Images/Manage Scores.png">
+
+Scores of all the students in the database can be displayed in JTable for easy view.
+
+Scores > 70 in green.
+
+<"img src="Project Images/Show Scores 3.png">
+
+Scores < = 70 && > 50 in yellow.
+
+<"img src="Project Images/Show Scores 1.png">
+
+Scores < 50 in red.
+
+<"img src="Project Images/Show Scores 2.png">
